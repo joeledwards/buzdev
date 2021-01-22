@@ -13,3 +13,4 @@
 
 - [akka-stream](https://mvnrepository.com/artifact/com.typesafe.akka/akka-stream)
 - [play-json](https://mvnrepository.com/artifact/com.typesafe.play/play-json)
+- [sttp](https://mvnrepository.com/artifact/com.softwaremill.sttp/core)
